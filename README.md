@@ -91,6 +91,14 @@ This repository focuses on the code and reproducibility of the modelling process
 
 ## 📬 Author
 
-**Bhavin Thakur**  
+[**Bhavin Thakur**](https://github.com/bhavinthakur29)  
 Student ID: 23079699  
-London, United Kingdom
+
+---
+
+### 📚 Acknowledgement & Responsible Use
+
+This project was created by me as part of my university coursework.  
+I used standard tutorials, documentation, and university resources for learning, but all code and analysis were written by me.  
+Please use this repository only as a reference — **do not copy it for academic submissions**.
+
